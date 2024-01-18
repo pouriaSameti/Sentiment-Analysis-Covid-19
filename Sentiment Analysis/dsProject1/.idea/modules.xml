@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Machine learning/Querra College/.idea/Querra College.iml" filepath="$PROJECT_DIR$/../../../../../Machine learning/Querra College/.idea/Querra College.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dsProject1.iml" filepath="$PROJECT_DIR$/.idea/dsProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Machine learning/Querra College/14-tafrihi/notebooks/.idea/notebooks.iml" filepath="$PROJECT_DIR$/../../../../../Machine learning/Querra College/14-tafrihi/notebooks/.idea/notebooks.iml" />
     </modules>
   </component>
 </project>
